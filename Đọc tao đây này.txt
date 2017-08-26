@@ -1,0 +1,5 @@
+- Em import cái db taxi.sql vào db của em nhé, nếu tên khác thì vào file app/config/database.php đổi lại tên nhé
+- Chạy thử xem được chưa, nếu có lỗi thì nó hiện lên đấy anh đang bật debug nếu nó báo  lỗi
+mcrypt_encrypt(): Key of size 8 not supported by this algorithm. Only keys of sizes 16, 24 or 32 supported thì làm như sau nhé
+
+- Chuột phải + shift chọn open windown command here xong chạy php artisan key:generate xong chạy lại xem được chưa nhé
